@@ -1,4 +1,4 @@
-// ex6_3_capturing_state.cpp
+// ex6_5_capturing_state.cpp
 // example for "C++ Lambda Story"
 // https://leanpub.com/cpplambda
 // by Bartlomiej Filipek

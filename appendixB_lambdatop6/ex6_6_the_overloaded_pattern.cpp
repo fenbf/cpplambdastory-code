@@ -1,4 +1,4 @@
-// ex6_4_the_overloaded_pattern.cpp
+// ex6_6_the_overloaded_pattern.cpp
 // example for "C++ Lambda Story"
 // https://leanpub.com/cpplambda
 // by Bartlomiej Filipek
