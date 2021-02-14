@@ -1,4 +1,4 @@
-// ex6_5_runtime_polymorphism.cpp
+// ex6_7_runtime_polymorphism.cpp
 // example for "C++ Lambda Story"
 // https://leanpub.com/cpplambda
 // by Bartlomiej Filipek
