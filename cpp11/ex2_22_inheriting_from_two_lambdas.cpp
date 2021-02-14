@@ -18,7 +18,8 @@ public:
 
 template<typename TCall, typename UCall>
 SimpleOverloaded<TCall, UCall> MakeOverloaded(TCall&& tf, UCall&& uf) {
-    return SimpleOverloaded<TCall, UCall>(tf, uf);
+    return SimpleOverloaded<TCall, UCall>(std::forward<TCall> tf, 
+                                          std::forward<UCall> uf);
 }
 
 int main() {
